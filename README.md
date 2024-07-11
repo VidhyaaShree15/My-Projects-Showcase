@@ -27,7 +27,7 @@ Welcome to my project showcase! Below is a list of my repositories, organized by
    - An in-depth analysis of a movies dataset, including data cleaning, EDA, and visualizations.
 
 ## Tableau Project
-**1. [Covid Dashboard](https://github.com/yourusername/covid-dashboard)**
+**1. [Covid Dashboard](https://github.com/VidhyaaShree15/Covid-Dashboard-with-Tableau)**
     - An interactive COVID-19 dashboard built using Tableau.
 
 ## Machine Learning Projects
