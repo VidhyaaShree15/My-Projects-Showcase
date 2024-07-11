@@ -26,6 +26,10 @@ Welcome to my project showcase! Below is a list of my repositories, organized by
  **2. [Movies Data Analysis](https://github.com/VidhyaaShree15/Movies-Data-Analysis)**
    - An in-depth analysis of a movies dataset, including data cleaning, EDA, and visualizations.
 
+## Tableau Project
+**1. [Covid Dashboard](https://github.com/yourusername/covid-dashboard)**
+    - An interactive COVID-19 dashboard built using Tableau.
+
 ## Machine Learning Projects
 **1. [Image Classification using Machine Learning](https://github.com/VidhyaaShree15/Image-Classification-using-Machine-Learning)**
    - A project on building and evaluating image classification models using various architectures.
@@ -36,6 +40,10 @@ Welcome to my project showcase! Below is a list of my repositories, organized by
 ## Deep Learning Project
 **1. [CIFAR-10 Deep Learning](https://github.com/VidhyaaShree15/CIFAR-10-Deep-Learning)**
    - A comprehensive project focused on analyzing the CIFAR-10 dataset using deep learning techniques.
+
+## Data Semantics Project
+**1. [Decoding IPL Data Semantics](https://github.com/VidhyaaShree15/Decoding-IPL-Data-Semantics)**
+    - A project focused on creating and merging ontologies, defining classes and properties, and extracting data using SPARQL queries.
 
 ## Data Mining Project
 **1. [Data Mining Project 1](https://github.com/VidhyaaShree15/Data-Mining-Project-1)**
